@@ -20,7 +20,7 @@ import {
   import { useAuth } from '../contexts/AuthContext'
   import { collection, addDoc } from 'firebase/firestore' 
   import { db } from "../utils/init-firebase"
-  import img from "../assets/images/backGroundimg.jpg"
+ 
   
   
   const Registerpage = () => {
